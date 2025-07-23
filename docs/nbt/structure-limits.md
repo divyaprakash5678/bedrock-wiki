@@ -37,7 +37,7 @@ If the only block you have in your structure is structure block, you will find i
 
 ![](/assets/images/nbt/structure-limits/nbt-screenshot-1.png)
 
-3. Set `xStructureSize`, `yStructureSize` and `zStructureSize` values to what you want.
+3. Set `x400StructureSize`, `yStructureSize` and `z400StructureSize` values to what you want.
 4. Save the structure and load it in game.
 
 ![](/assets/images/nbt/structure-limits/result.png)
